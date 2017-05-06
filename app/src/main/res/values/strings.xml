@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rulers of the world</string>
+    <string name="action_settings">Settings</string>
+    <string name="ruler_name">Name</string>
+    <string-array name="api_verbs">
+        <item>GET</item>
+        <item>PUT</item>
+        <item>POST</item>
+        <item>DELETE</item>
+    </string-array>
+</resources>
